@@ -1,0 +1,53 @@
+//Example clipboard data of webpage copied via ADB & Clipper from android to PC
+Broadcasting: Intent { act=clipper.get flg=0x400000 }
+Broadcast completed: result=-1, data="OMITTED
+Change test
+
+step 2 of 4OMITTEDChange
+November
+Dec
+MON	TUE	WED	THU	FRI	SAT	SUN
+30	
+31	
+1Nov	
+2	
+3Today	
+4	
+5
+6	
+7	
+8	
+9	
+10	
+11	
+12
+13	
+14	
+15	
+16	
+17	
+18	
+19
+20	
+21	
+22	
+23	
+24	
+25	
+26
+27	
+28	
+29	
+30	
+1Dec	
+2	
+3
+Available	Unavailable
+Choose a time
+Tuesday 14 November 2023
+
+ 8:10am
+What tests are not included in the calendar?
+ nextReturn to existing booking
+Help Cookies English Cymraeg Accessibility Privacy
+© Crown Copyright"
