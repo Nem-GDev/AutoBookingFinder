@@ -1,5 +1,5 @@
 # AutoBookingFinder
-### Needs refactoring (Indefinitely postponed as project is not currently in use)
+### *Needs refactoring (Indefinitely postponed as project is not currently in use)
 * C# .net
 * Android Debug Bridge (ADB)
 * Command Line (CMD)
